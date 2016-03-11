@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\mememaker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\meme_list_selector.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\mememaker\\app\\src\\main\\res\\drawable\\meme_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\mememaker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_color_selector.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\mememaker\\app\\src\\main\\res\\drawable\\grid_color_selector.xml"
+    }
+]
